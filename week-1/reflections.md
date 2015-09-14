@@ -40,4 +40,11 @@ pwd - print working directory - shows your location in the shell, what directory
 -help - gets you help - helps you 
 
 #1.4 Forking and Cloning Reflection
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+
+		To create a new repo I would have them click the plus sign in the upper right hand corner and select new repository, then name the repository, mark level of privacy, and choose wether they wanted to initialize the repository on github or on the remote, then click create. For forking I would have them click on the fork, then navigate to their personal github page to see if it completed. To clone I would have them navigate to the fork on there personal page and copy/double click the the address under http on the bottom right corner of the page. 
+
+		What struggles did you have setting up git and GitHub? What did you learn in the process?
+
+		 I did not have any struggles setting up git and/or github, I was already slightly familiar with setting up, initializing and adding from a remote. What I learned through the process of setting everthing up was that github can be easy to use if you understand and remember the basics and ask or type help when you get stuck.
 
