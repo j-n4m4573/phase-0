@@ -1,4 +1,5 @@
 Paste a link to your [USERNAME].github.io repository.
+https://github.com/jsudo/jsudo.github.io
 
 Explain how to create a repository on GitHub and clone the repository to your local computer to a non-technical person.
 create repository by clicking plus sign in upper right hand corner. Clone repository by copying path on lower right corner the git cloning to a folder on your computer. 
