@@ -1,5 +1,5 @@
 
-![Site Map](img/site-map.png)
+![Site Map](/img/site_map.png)
 
 What are the 6 Phases of Web Design?
 
