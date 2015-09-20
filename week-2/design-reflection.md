@@ -1,5 +1,5 @@
 
-![Site Map](/design-reflection.md)
+![Site Map](img/site-map.png)
 
 What are the 6 Phases of Web Design?
 
