@@ -1,3 +1,36 @@
 * {
-	color: blue;
+        background-color: #b38d78;
 }
+
+header {
+            width: 52%;
+            margin-left: 25%;
+            margin-right: 23%;
+            
+  
+}
+
+.column-1 {
+            
+            float: left;
+            width: 25%; 
+            margin-left: 25%;
+            margin-right: 2%;
+            background-color: blue;
+}
+
+.column-2 {
+            float: right;
+            width: 25%; 
+            margin-right: 23%;
+            background-color: yellow;
+            font-family: Courier; 
+}
+    
+    footer {
+            width: 52%;
+            margin-left: 25%;
+            margin-right: 23%;
+            background-color: orange;
+            clear: both; 
+    }
