@@ -182,8 +182,12 @@ require_relative "cartmans_essay.md"
 #4. unexpected end of input
 #5. line 200
 #6. expected keyword end. 
-#
-#
+
+#Which error was the most difficult to read?
+#How did you figure out what the issue with the error was?
+#Were you able to determine why each error message happened based on the code? 
+#When you encounter errors in your future code, what process will you follow to help you debug?
+
 end 
 
 
