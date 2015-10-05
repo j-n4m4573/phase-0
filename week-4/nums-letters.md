@@ -1,6 +1,8 @@
 **What does puts do?**  
 
-Puts prints information out to the console
+Puts prints information out to the console  
+
+
 **What is an integer? What is a float?**  
 
 An integer is a whole number and a float is a floating point number, basically a number with a decimal.  
