@@ -40,5 +40,48 @@ describe 'age' do
   end
 end
 
+#How do you define a local variable?
+
+#A you define a local variable by assigning a value to the variable and placing it within the block of code.
+
+#How do you define a method?
+
+#You define a method by using def then defining what you want in your code block, and then end to end the method.
+
+#What is the difference between a local variable and a method?
+
+#A local variable is just a value assigned to a holding place and a method actually does something.
+
+#How do you run a ruby program from the command line?
+
+#You run ruby from the command line by running ruby first then the filename.
+
+#How do you run an RSpec file from the command line?
+
+#You run rspec first then you type in the file name.
+
+#What was confusing about this material? What made sense?
+
+#I didnt find anything really confusing about this material, it pretty much all made sense. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

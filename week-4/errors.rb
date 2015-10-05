@@ -184,9 +184,20 @@ require_relative "cartmans_essay.md"
 #6. expected keyword end. 
 
 #Which error was the most difficult to read?
+
+#Allmost all the error messages were not that difficult to read.
+
 #How did you figure out what the issue with the error was?
+
+#I guess that without the error message we would have to continually guess what the error was and just do things by trial and error.
+
 #Were you able to determine why each error message happened based on the code? 
+
+#I was able to tell what happened with the code after reading each error message because they were pretty straightforward and not really complicated at all.
+
 #When you encounter errors in your future code, what process will you follow to help you debug?
+
+#When checking for errors in the future I will be sure to look at the error messages because its a lot easier then figuring it out on your own. 
 
 end 
 
