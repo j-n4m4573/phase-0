@@ -11,6 +11,8 @@
 # If +list_of_nums+ is empty the method should return nil
 
 # Your Solution Below
-def smallest_integer(list_of_nums)
-   smallest_integer.max = Array.new 
+def smallest_integer (array)
+    if array = []
+    	return nil
 end
+	end
