@@ -24,6 +24,6 @@ def smallest_integer (list_of_nums)
     elsif list_of_nums == [0,]
     	return 0
   else 
-  	list_of_nums.sort {|a,b| a <=> b }.take(1)
+  	list_of_nums.sort {|a,b| a <=> b }.first
 end
 	end
