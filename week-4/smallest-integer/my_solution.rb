@@ -11,6 +11,19 @@
 # If +list_of_nums+ is empty the method should return nil
 
 # Your Solution Below
-def smallest_integer(list_of_nums)
-   smallest_integer.max = Array.new 
+
+# If list_of_nums is empty equal nil
+# arrange array from smallest to largest
+# return the first item from the array 
+# if negative return largest negative number
+
+
+def smallest_integer (list_of_nums)
+    if list_of_nums == []
+    	return nil
+    elsif list_of_nums == [0,]
+    	return 0
+  else 
+  	list_of_nums.sort {|a,b| a <=> b }.take(1)
 end
+	end
