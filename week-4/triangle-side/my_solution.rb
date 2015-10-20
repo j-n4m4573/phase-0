@@ -16,6 +16,16 @@ def valid_triangle?(a, b, c)
 			   b != c
 				
 			   return false
+			   elsif 
+
+			  a == b
+			  b == c
+			  c == a
+					return 
+			   			false 
+			   	else 
+			   		return 
+			   			true
 				
 				end
 				end
