@@ -17,6 +17,9 @@ last_name = gets.chomp
 
 puts "hi" + ' ' + name + ' ' + middle_name + ' ' + last_name  
 
+# address exercise https://github.com/jsudo/phase-0/blob/master/week-4/address/my_solution.rb
+# math exercise https://github.com/jsudo/phase-0/blob/master/week-4/math/my_solution.rb
+
 #How do you define a local variable?
 
 #You define a local variable by assigning it a value 
