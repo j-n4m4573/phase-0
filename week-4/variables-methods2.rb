@@ -1,8 +1,21 @@
+# Exercise 1
 puts "What is your favorite number?"
 number = gets.chomp
 
 puts number.to_i + 1 
 puts "This is a better number, ok?"
+
+# Exercise 2
+puts "What is your name?"
+name = gets.chomp
+
+puts "What is your middle name"
+middle_name = gets.chomp
+
+puts "What is your last name"
+last_name = gets.chomp
+
+puts "hi" + ' ' + name + ' ' + middle_name + ' ' + last_name  
 
 #How do you define a local variable?
 
