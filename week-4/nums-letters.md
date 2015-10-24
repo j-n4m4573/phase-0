@@ -1,3 +1,9 @@
+**4.2.1 https://github.com/jsudo/phase-0/blob/master/week-4/defining-variables.rb**
+
+**4.2.2 https://github.com/jsudo/phase-0/blob/master/week-4/simple-string.rb**
+
+**4.2.3 https://github.com/jsudo/phase-0/blob/master/week-4/basic-math.rb**
+
 **What does puts do?**  
 
 
@@ -29,7 +35,7 @@ hours_a_year = 8760
 min_an_hour = 
 hours_a_year * decade * min_an_hour = 5,256,000
  ```
-** How does Ruby handle addition, subtraction, multiplication, and division of numbers? **  
+**How does Ruby handle addition, subtraction, multiplication, and division of numbers?**  
 
 
 
