@@ -11,6 +11,14 @@
 # If +list_of_words+ is empty the method should return nil
 
 #Your Solution Below
+
 def shortest_string(list_of_words)
-  # Your code goes here!
-end
+	if list_of_words == []
+		return nil
+	elsif 
+		list_of_words == [0,]
+		 return 0
+	else
+		list_of_words.sort { |x,y| x<=>y}.first
+	end
+		end
