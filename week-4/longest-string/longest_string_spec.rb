@@ -20,7 +20,6 @@ describe 'longest_string' do
   it "returns the 'aaaaaaa' with the example array" do
     expect(longest_string(['cat', 'aaaaaaa', 'apples'])).to eq 'aaaaaaa'
   end
-
   it "returns the longest string regardless of ordering" do
     # This creates an array containing ['a', 'aa', ...]
     # up to 10 characters long, but randomly ordered
