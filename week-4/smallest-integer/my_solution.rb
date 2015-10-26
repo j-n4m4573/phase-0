@@ -11,8 +11,13 @@
 # If +list_of_nums+ is empty the method should return nil
 
 # Your Solution Below
-def smallest_integer (array)
-    if array = []
-    	return nil
-end
+def smallest_integer(list_of_nums)
+	if list_of_nums == []
+		return nil
+	elsif 
+		list_of_nums == [0,]
+		 return 0
+	else
+		list_of_nums.sort { |x,y| x<=>y}.first
 	end
+		end
