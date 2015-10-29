@@ -9,7 +9,7 @@
 # 0. Pseudocode
 
 # What is the input?
-# What is the output? (i.e. What should the code return?)
+# An integer.# What is the output? (i.e. What should the code return?)
 # What are the steps needed to solve the problem?
 
 
