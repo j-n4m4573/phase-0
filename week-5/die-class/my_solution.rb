@@ -30,10 +30,23 @@ class Die
 	@roll = rand(1..6)
   end
 end
+ 
+ # 3. Refactored Solution
+class Die(sides)
+def initialize
+	@die = Die.new
+	@roll = roll
+	@sides = sides
+end
+
+	def roll
+		@sides = rand(1..6)
+	end
+end 
 
 
 
-# 3. Refactored Solution
+# 3. Refection
 
 
 
