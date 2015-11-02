@@ -41,8 +41,9 @@ end
 
 def separate_comma(integer)
 	comma = integer.to_s
-	if comma.split
-		
+	if comma.length > 3
+		comma.insert
+
 # 3. Reflection
 
 # What was your process for breaking the problem down? What different approaches did you consider?
