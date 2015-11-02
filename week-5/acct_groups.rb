@@ -46,10 +46,24 @@ def account_groups(student_names)
 		p groups 
 	end
 
-	What was the most interesting and most difficult part of this challenge?
-Do you feel you are improving in your ability to write pseudocode and break the problem down?
-Was your approach for automating this task a good solution? What could have made it even better?
-What data structure did you decide to store the accountability groups in and why?
-What did you learn in the process of refactoring your initial solution? Did you learn any new Ruby methods?
+#3. Refactored Solution
+
+def account_groups(student_names)
+	if student_names % 5 == 0 
+		student_names.slice(5).to_a
+	elsif student_names % 4 == 0
+		student_names % 4 == 0 
+		student_names.slice(4).to_a
+	elsif student_names % 3 == 0
+		student_names.slice(3).to_a
+	else 
+		p student_names
+	end 
+end
+# 	# What was the most interesting and most difficult part of this challenge?
+# Do you feel you are improving in your ability to write pseudocode and break the problem down?
+# Was your approach for automating this task a good solution? What could have made it even better?
+# What data structure did you decide to store the accountability groups in and why?
+# What did you learn in the process of refactoring your initial solution? Did you learn any new Ruby methods?
 
 
