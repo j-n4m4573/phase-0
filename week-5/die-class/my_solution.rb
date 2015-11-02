@@ -47,19 +47,19 @@ end
 
 
 # 3. Refection
-What is an ArgumentError and why would you use one?
-An argument error is when you have the wrong number of arguments for a method, usually when you are calling a method. You 
-would use one if you were creating your own class and you wanted the user to pass certain amounts of data that were not optional, or you would set the 
-parameters as default values.
+# What is an ArgumentError and why would you use one?
+# An argument error is when you have the wrong number of arguments for a method, usually when you are calling a method. You 
+# would use one if you were creating your own class and you wanted the user to pass certain amounts of data that were not optional, or you would set the 
+# parameters as default values.
 
-What new Ruby methods did you implement? What challenges and successes did you have in implementing them?
-What is a Ruby class?
-I did not implement any new ruby methods in this challenge because I ran out of time and did not get a chance to refactor the solution
-as best as I wanted to. 
-Why would you use a Ruby class?
-You would use a ruby class so that you can have a reusable piece of code that has methods and variables that can be used throughout the program. 
-What is the difference between a local variable and an instance variable?
-Where can an instance variable be used? a local variable is scoped to the method or block while an instance variable is available throughout the program.
+# What new Ruby methods did you implement? What challenges and successes did you have in implementing them?
+# What is a Ruby class?
+# I did not implement any new ruby methods in this challenge because I ran out of time and did not get a chance to refactor the solution
+# as best as I wanted to. 
+# Why would you use a Ruby class?
+# You would use a ruby class so that you can have a reusable piece of code that has methods and variables that can be used throughout the program. 
+# What is the difference between a local variable and an instance variable?
+# Where can an instance variable be used? a local variable is scoped to the method or block while an instance variable is available throughout the program.
 
 
 
